@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "ibis-project",
+  "repo": "ibis-dask",
+  "versions": [
+    {
+      "commit": "30af5be5a2a8531d37f9c7d0f25a89e52b00ad80",
+      "parsed_at": "2026-10-21T20:06:36.932885+00:00",
+      "filetree": "filetree/30af5be5a2a8531d37f9c7d0f25a89e52b00ad80.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/31f66dffc531eadc354e521bbd2161936ed61060.nq.gz",
+        "blob/b27293eab196374561c9ac6e17bb07dabe9783c4.nq.gz",
+        "blob/22bdd22d6bc123059abefa12d1e343c122a5be5c.nq.gz",
+        "blob/25b27fb84668275975e4bcd011cba4bd1c3e064e.nq.gz",
+        "blob/9e0afac66d74896a65efc979d154b7b916046df2.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/180486fbce140c4c404423cbd12d4314ff54cfd6.nq.gz",
+        "blob/2ee0eff0eace99492afbfefed2a85b6395e5f128.nq.gz",
+        "blob/541c9ec60fb4a116139f0c90d8b247b1efe07350.nq.gz",
+        "blob/327ebfdca60e050bf1f24c10a765a0175438ac5b.nq.gz",
+        "blob/a81c8ee121952cf06bfaf9ff9988edd8cded763c.nq.gz",
+        "blob/3f44de48bc4263a5cdbe2f8b524ae5ef627649fb.nq.gz",
+        "blob/7a34bf769ded08da48c17c6d116ebb46036d71e8.nq.gz",
+        "blob/338b8d229f3e38526fa7d97d04295784972ede0f.nq.gz",
+        "blob/963a7ee87a657134236c7c3701fda9bddb004f60.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
