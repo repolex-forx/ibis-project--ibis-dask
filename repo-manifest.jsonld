@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ibis-project/ibis-dask/commit/30af5be5a2a8531d37f9c7d0f25a89e52b00ad80",
       "git:hexsha": "30af5be5a2a8531d37f9c7d0f25a89e52b00ad80",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
