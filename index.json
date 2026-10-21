@@ -1,0 +1,11 @@
+{
+  "org": "ibis-project",
+  "repo": "ibis-dask",
+  "versions": [
+    {
+      "commit": "30af5be5a2a8531d37f9c7d0f25a89e52b00ad80",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:08:45.923011+00:00"
+    }
+  ]
+}
